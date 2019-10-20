@@ -44,4 +44,4 @@ int main()
 	cin>>z;	
 	cout<<"Area of cube= "<<area(z)<<endl;
 }
-
+//it is now changing by shabbar
