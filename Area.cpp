@@ -1,5 +1,5 @@
-#include<iostream>
-#include<math.h>
+#include<iostream>// input/output library 
+#include<math.h>// including maths library
 using namespace std;
 double area(double &a)
 {
@@ -25,6 +25,7 @@ int area(int &z)
 	result=(z*z*z);
 	return result;
 }
+//MAIN RUNS HERE//
 int main()
 {
 	double e,f,g;
